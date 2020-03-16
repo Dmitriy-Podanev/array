@@ -1,0 +1,10 @@
+C:\Users\79205\source\repos\stack array-based\stack array-based\bin\Debug\stack array-based.exe.config
+C:\Users\79205\source\repos\stack array-based\stack array-based\bin\Debug\stack array-based.exe
+C:\Users\79205\source\repos\stack array-based\stack array-based\bin\Debug\stack array-based.pdb
+C:\Users\79205\source\repos\stack array-based\stack array-based\obj\Debug\stack array-based.csprojAssemblyReference.cache
+C:\Users\79205\source\repos\stack array-based\stack array-based\obj\Debug\stack array-based.csproj.CoreCompileInputs.cache
+C:\Users\79205\source\repos\stack array-based\stack array-based\obj\Debug\stack array-based.exe
+C:\Users\79205\source\repos\stack array-based\stack array-based\obj\Debug\stack array-based.pdb
+C:\Users\79205\source\repos\stack array-based\stack array-based\bin\Debug\MyLibary.dll
+C:\Users\79205\source\repos\stack array-based\stack array-based\bin\Debug\MyLibary.pdb
+C:\Users\79205\source\repos\stack array-based\stack array-based\obj\Debug\stack array-based.csproj.CopyComplete
